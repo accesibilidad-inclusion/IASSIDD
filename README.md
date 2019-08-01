@@ -18,7 +18,7 @@ Research keynotes presented at IASSID 2019
 - Room: M2
 - [Transcript](https://docs.google.com/document/d/e/2PACX-1vQ6k44lM0IWOqS19TLAIEucFbgeFE2vDiwpatgS4Oc098mjIn2t8gTgDD2NF7zeiahVQmpj_X_e_18G/pub) [✒](https://docs.google.com/document/d/167vfMQlJllakSppN4Vu89OZ9y1KOabZCTX7qfHoVuGo/edit?usp=sharing)
 
-## [Supports for the independent life in adults with intellectual disability: Felt needs to face the adult life.](https://docs.google.com/presentation/d/1Cw_Wkn5xTQX8HDtJLJWWZszKO7o2vuCjXeLHJimEx0Q/edit?usp=sharing)
+## [Supports for the independent life in adults with intellectual disability: Felt needs to face the adult life.](https://docs.google.com/presentation/d/1lFSciEEZNbhAejfaEzqF2ZzUGDebZ2rWSZ15qDbpn54/edit?usp=sharing)
 - Presenting Author: Vanessa Vega
 - Presentation Day: Friday
 - Session Details: Session N4: Supporting quality of life & wellbeing, starting at 11:30
