@@ -1,6 +1,6 @@
 # IASSID2019
 
-Research keynotes presented at IASSID 2019 by +Accesible Research Group.
+Research keynotes presented at IASSID 2019 by **+Accesible Research Group**, Pontificia Universidad Católica de Valparaíso, Chile.
 
 ## [Inclusive Research: A transition from subjects to partners](https://docs.google.com/presentation/d/1aAvjA6dHqw5TH0gulv-8CXCEv3gvL2EYiGF2YGxfh64/edit?usp=sharing)
 - Presenting Author: Herbert Spencer & Vanessa Vega
