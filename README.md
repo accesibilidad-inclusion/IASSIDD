@@ -2,7 +2,7 @@
 
 Research keynotes presented at IASSID 2019 by **+Accesible Research Group**, Pontificia Universidad Católica de Valparaíso, Chile.
 
-## [Inclusive Research: A transition from subjects to partners](https://docs.google.com/presentation/d/1aAvjA6dHqw5TH0gulv-8CXCEv3gvL2EYiGF2YGxfh64/edit?usp=sharing)
+## [Inclusive research: the transition from research subjects to collaborating partners](https://docs.google.com/presentation/d/1aAvjA6dHqw5TH0gulv-8CXCEv3gvL2EYiGF2YGxfh64/edit?usp=sharing)
 - Presenting Author: Herbert Spencer & Vanessa Vega
 - Presentation Day: Tuesday
 - Session Details: Session B15: Inclusive research in practice, starting at 11:30
@@ -18,7 +18,7 @@ Research keynotes presented at IASSID 2019 by **+Accesible Research Group**, Pon
 - Room: M2
 - [Transcript](https://docs.google.com/document/d/e/2PACX-1vQ6k44lM0IWOqS19TLAIEucFbgeFE2vDiwpatgS4Oc098mjIn2t8gTgDD2NF7zeiahVQmpj_X_e_18G/pub) [✒](https://docs.google.com/document/d/167vfMQlJllakSppN4Vu89OZ9y1KOabZCTX7qfHoVuGo/edit?usp=sharing)
 
-## [Supports for the independent life in adults with intellectual disability: Felt needs to face the adult life.](https://docs.google.com/presentation/d/1lFSciEEZNbhAejfaEzqF2ZzUGDebZ2rWSZ15qDbpn54/edit?usp=sharing)
+## [Supports for the independent life in adults with intellectual disability: felt needs to face the adult life](https://docs.google.com/presentation/d/1lFSciEEZNbhAejfaEzqF2ZzUGDebZ2rWSZ15qDbpn54/edit?usp=sharing)
 - Presenting Author: Vanessa Vega & Herbert Spencer
 - Presentation Day: Friday
 - Session Details: Session N4: Supporting quality of life & wellbeing, starting at 11:30
