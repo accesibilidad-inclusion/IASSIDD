@@ -3,7 +3,7 @@
 Research keynotes presented at IASSID 2019 by **+Accesible Research Group**, Pontificia Universidad Católica de Valparaíso, Chile.
 
 ## [Inclusive research: the transition from research subjects to collaborating partners](https://docs.google.com/presentation/d/1aAvjA6dHqw5TH0gulv-8CXCEv3gvL2EYiGF2YGxfh64/edit?usp=sharing)
-- Presenting Author: Herbert Spencer & Vanessa Vega
+- Presenting Author: Vanessa Vega & Herbert Spencer
 - Presentation Day: Tuesday
 - Session Details: Session B15: Inclusive research in practice, starting at 11:30
 - Time: from 12:15 to 12:30
