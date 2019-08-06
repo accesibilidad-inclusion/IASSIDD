@@ -25,5 +25,7 @@ Research keynotes presented at IASSID 2019 (Aug 6 - 9) by **+Accesible Research 
 - Time: from 12:00 to 12:15
 - Room: Hall 1
 - [Transcript](https://docs.google.com/document/d/e/2PACX-1vQeUX7y2ekhVqxu-4knFD7rFbWL8W9fluptEHTre3fUxOgDoTNaBLtJ6Vb3Q8vHnfwyJT9-_f4RE2VR/pub) 
+
+
 ----
 [Github repo](https://github.com/mas-accesible/IASSIDD) - [Web](https://mas-accesible.github.io/IASSIDD)
