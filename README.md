@@ -1,6 +1,6 @@
 # IASSIDD 2019
 
-Research keynotes presented at IASSID 2019 (Aug 6 - 9) by **+[Accesible Research Group](http://www.masaccesible.com)**, Pontificia Universidad Católica de Valparaíso, Chile.
+Research keynotes presented at IASSID 2019 (Aug 6 - 9) by **+[Núcleo de Accesibilidad & Inclusión](http://www.accesibilidad-inclusion.cl)**, Pontificia Universidad Católica de Valparaíso, Chile.
 
 ## [Inclusive research: the transition from research subjects to collaborating partners](https://docs.google.com/presentation/d/1aAvjA6dHqw5TH0gulv-8CXCEv3gvL2EYiGF2YGxfh64/edit?usp=sharing)
 - Presenting Author: [Herbert Spencer](mailto:hspencer@ead.cl?subject='IASSID2019') & [Vanessa Vega](mailto:vanessa.vega@pucv.cl?subject='IASSID2019') 
